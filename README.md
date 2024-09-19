@@ -1,3 +1,5 @@
+/* HTML Code */
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -61,6 +63,8 @@
 </body>
 
 </html>
+
+/* CSS Code */
 
 body {
     background-color: #EDE8DC;
